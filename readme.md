@@ -5,4 +5,4 @@ soy Aulisnel Ramírez Gómez, matrícula 2021-1636, actualmente cursando Softwar
 
 A continuación la captura de pantalla de mi página web personal, la primera tarea.
 
-![Mi captura de pantalla](tarea#1.png)
+![Mi captura de pantalla](tarea%231.png)
